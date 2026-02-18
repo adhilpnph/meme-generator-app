@@ -1,4 +1,4 @@
-import trollFace from "../assets/images/TrollFace.png"
+import trollFace from "../assets/images/Trollface.png"
 
 export default function Header() {
     return (
