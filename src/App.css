@@ -105,3 +105,13 @@ main {
 .top {
     top: 0;
 }
+@media(max-width:372px){
+    .meme span{
+        font-size: 1.5rem;
+    }
+}
+@media(max-width:328px){
+    .meme span{
+        font-size: 1rem;
+    }
+}
